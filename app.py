@@ -1,2 +1,5 @@
 print('Hello git')
 print(login feature)
+print(main branch change)
+print(conflict change 1)
+print(added one more change)
